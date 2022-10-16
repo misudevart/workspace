@@ -1,8 +1,4 @@
-nice =  'nasdrovia'
-buenosDias = 'dobroje utro'
-Adios = 'vitania ' +  'paka paka'
+Cambio de nueva rama
 
-print(nice, buenosDias, Adios)
 
-#sinceramente dentro de la programacion neurlinguistica
 
